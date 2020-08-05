@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="juergenpointinger.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="juergenpointinger.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 
+<br />
+
 ### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

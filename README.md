@@ -35,6 +35,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Frameworks](https://juergenpointinger.github.io/devops-frameworks/)
+- [Move from Jira to GitLab](https://juergenpointinger.github.io/jira-gitlab-migration/)
+- [Why do we need DevOps](https://juergenpointinger.github.io/why-do-we-need-devops/)
+- [How to use Flyway with Docker](https://juergenpointinger.github.io/use-flyway-with-docker/)
+- [How to use scoped NPM registry](https://juergenpointinger.github.io/scoped-npm-registry/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />

@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ## I'm a SDLC Consultant, DevOps Advocate, People Guide & Mentor
 
-- 🔭 I'm currently working on something cool 😄
-- 🌱 I’m currently learning ...
+- 🔭 Continuous improvement is the only constant in DevOps, so ...
+  - I'm currently working on something cool 😄
+  - I’m currently learning everything 🤣
 - 💬 Ask me about anything related to DevOps and the SDLC
 - 🥅 Goals 2020: Make my clients great
 - ⚡ Fun fact: I ❤️ ⚽
@@ -32,13 +33,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="juergenpointinger.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 
 <br />
+<br />
+
+---
 
 ### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<br />
-<br />
 
 [website]: https://juergenpointinger.github.io/
 [twitter]: https://twitter.com/pointij

@@ -1,4 +1,5 @@
-## Hi, I'm [Jürgen](https://juergenpointinger.github.io/), IT Consultant. 👋
+### Hi, I'm [Jürgen](https://juergenpointinger.github.io/), IT Consultant. 👋  
+### DevOps Enthusiast / Solution Architect / Software Developer
 
 <!--
 **juergenpointinger/juergenpointinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## DevOps Enthusiast / Solution Architect / Software Developer
 
 - 🔭 Continuous improvement is the only constant in DevOps, so ...
   - I'm currently working on something cool 😄

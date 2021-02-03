@@ -1,4 +1,4 @@
-### Hi, I'm [Jürgen], IT Consultant.(https://juergenpointinger.github.io/) 👋
+### Hi, I'm [Jürgen](https://juergenpointinger.github.io/), IT Consultant. 👋
 
 <!--
 **juergenpointinger/juergenpointinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

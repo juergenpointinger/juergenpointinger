@@ -1,4 +1,4 @@
-### Hi there, I'm [Jürgen](https://juergenpointinger.github.io/) 👋
+### Hi, I'm [Jürgen], IT Consultant.(https://juergenpointinger.github.io/) 👋
 
 <!--
 **juergenpointinger/juergenpointinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a SDLC Consultant, DevOps Advocate, People Guide & Mentor
+## DevOps Enthusiast / Solution Architect / Software Developer
 
 - 🔭 Continuous improvement is the only constant in DevOps, so ...
   - I'm currently working on something cool 😄

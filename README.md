@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Being a heart surgeon in an IT depression](https://juergenpointinger.github.io/it-depression/)
 - [Aspiration for the future](https://juergenpointinger.github.io/aspiration-for-the-future/)
 - [Organizational Performance](https://juergenpointinger.github.io/organizational-performance/)
 - [DevOps Frameworks](https://juergenpointinger.github.io/devops-frameworks/)
 - [Move from Jira to GitLab](https://juergenpointinger.github.io/jira-gitlab-migration/)
-- [Why do we need DevOps](https://juergenpointinger.github.io/why-do-we-need-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://juergenpointinger.github.io/

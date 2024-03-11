@@ -1,4 +1,4 @@
-### Hi, I'm [Jürgen](https://juergenpointinger.github.io/), IT Consultant. 👋  
+### Hi, I'm [Jürgen](https://juergenpointinger.github.io/). 👋  
 ### DevOps Enthusiast / Solution Architect / Software Developer
 
 <!--
@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 ### 📫 How to reach me
 
 [<img align="left" alt="juergenpointinger.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="juergenpointinger.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="juergenpointinger.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="juergenpointinger.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="juergenpointinger.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 
 <br />
@@ -44,7 +42,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://juergenpointinger.github.io/
-[twitter]: https://twitter.com/pointij
-[instagram]: https://www.instagram.com/j.pointi/
 [linkedin]: https://www.linkedin.com/in/juergen-pointinger/
 [xing]: https://www.xing.com/profile/Juergen_Pointinger/
